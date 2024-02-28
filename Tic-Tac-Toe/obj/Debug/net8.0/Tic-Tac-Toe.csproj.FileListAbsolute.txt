@@ -1,0 +1,14 @@
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Tic-Tac-Toe\bin\Debug\net8.0\Tic-Tac-Toe.exe
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Tic-Tac-Toe\bin\Debug\net8.0\Tic-Tac-Toe.deps.json
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Tic-Tac-Toe\bin\Debug\net8.0\Tic-Tac-Toe.runtimeconfig.json
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Tic-Tac-Toe\bin\Debug\net8.0\Tic-Tac-Toe.dll
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Tic-Tac-Toe\bin\Debug\net8.0\Tic-Tac-Toe.pdb
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Tic-Tac-Toe\obj\Debug\net8.0\Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Tic-Tac-Toe\obj\Debug\net8.0\Tic-Tac-Toe.AssemblyInfoInputs.cache
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Tic-Tac-Toe\obj\Debug\net8.0\Tic-Tac-Toe.AssemblyInfo.cs
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Tic-Tac-Toe\obj\Debug\net8.0\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Tic-Tac-Toe\obj\Debug\net8.0\Tic-Tac-Toe.dll
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Tic-Tac-Toe\obj\Debug\net8.0\refint\Tic-Tac-Toe.dll
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Tic-Tac-Toe\obj\Debug\net8.0\Tic-Tac-Toe.pdb
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Tic-Tac-Toe\obj\Debug\net8.0\Tic-Tac-Toe.genruntimeconfig.cache
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Tic-Tac-Toe\obj\Debug\net8.0\ref\Tic-Tac-Toe.dll
