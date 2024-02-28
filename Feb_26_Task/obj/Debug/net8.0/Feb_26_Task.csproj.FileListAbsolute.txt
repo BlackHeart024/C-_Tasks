@@ -1,0 +1,15 @@
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\obj\Debug\net8.0\Feb_26_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\obj\Debug\net8.0\Feb_26_Task.AssemblyInfoInputs.cache
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\obj\Debug\net8.0\Feb_26_Task.AssemblyInfo.cs
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\obj\Debug\net8.0\Feb_26_Task.csproj.CoreCompileInputs.cache
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\bin\Debug\net8.0\Feb_26_Task.exe
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\bin\Debug\net8.0\Feb_26_Task.deps.json
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\bin\Debug\net8.0\Feb_26_Task.runtimeconfig.json
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\bin\Debug\net8.0\Feb_26_Task.dll
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\bin\Debug\net8.0\Feb_26_Task.pdb
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\obj\Debug\net8.0\Feb_26_Task.dll
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\obj\Debug\net8.0\refint\Feb_26_Task.dll
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\obj\Debug\net8.0\Feb_26_Task.pdb
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\obj\Debug\net8.0\Feb_26_Task.genruntimeconfig.cache
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\obj\Debug\net8.0\ref\Feb_26_Task.dll
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_26_Task\obj\Debug\net8.0\Feb_26_Task.sourcelink.json
