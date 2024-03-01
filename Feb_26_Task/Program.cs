@@ -52,32 +52,59 @@ class Program
     static void task1()
     {
         Console.WriteLine("Take three letters and display them in reverse order");
-        string? ch1,ch2,ch3;
-        Console.Write("Enter letter: ");
-        ch1 = Console.ReadLine();
-        Console.Write("Enter letter: ");
-        ch2 = Console.ReadLine();
-        Console.Write("Enter letter: ");
-        ch3 = Console.ReadLine();
+        // string? ch1,ch2,ch3;
+        // Console.Write("Enter letter: ");
+        // ch1 = Console.ReadLine();
+        // Console.Write("Enter letter: ");
+        // ch2 = Console.ReadLine();
+        // Console.Write("Enter letter: ");
+        // ch3 = Console.ReadLine();
 
-        StringBuilder sb = new StringBuilder();
-        char char1, char2, char3;
-        if (char.TryParse(ch3, out char3))
-        {
-            sb.Append(char3);
-            sb.Append(" ");
-        }
-        if (char.TryParse(ch2, out char2))
-        {
-            sb.Append(char2);
-            sb.Append(" ");
-        }
-        if (char.TryParse(ch1, out char1))
-        {
-            sb.Append(char1);
-        }
+        // StringBuilder sb = new StringBuilder();
+        // char char1, char2, char3;
+        // if (char.TryParse(ch3, out char3))
+        // {
+        //     sb.Append(char3);
+        //     sb.Append(" ");
+        // }
+        // if (char.TryParse(ch2, out char2))
+        // {
+        //     sb.Append(char2);
+        //     sb.Append(" ");
+        // }
+        // if (char.TryParse(ch1, out char1))
+        // {
+        //     sb.Append(char1);
+        // }
 
-        Console.WriteLine(sb);
+        // Console.WriteLine(sb);
+
+        char? ch1 = null, ch2 = null, ch3 = null;
+
+        try
+        {
+            Console.Write("Enter letter: ");
+            ch1 = Convert.ToChar(Console.ReadLine());
+            Console.Write("Enter letter: ");
+            ch2 = Convert.ToChar(Console.ReadLine());
+            Console.Write("Enter letter: ");
+            ch3 = Convert.ToChar(Console.ReadLine());
+        }
+        catch(Exception e)
+        {
+            Console.WriteLine("Exception caught: " + e);
+        }
+        finally
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append(ch3);
+            sb.Append(" ");
+            sb.Append(ch2);
+            sb.Append(" ");
+            sb.Append(ch1);
+            Console.WriteLine(sb);
+        }
+       
         Console.WriteLine("***************************************");
     }
 

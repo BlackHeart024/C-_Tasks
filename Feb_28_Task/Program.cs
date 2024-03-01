@@ -24,7 +24,7 @@ class DivNumbers
     }
     static void Main(string[] args)
     {
-        DivNumbers obj = new DivNumbers();
+        DivNumbers obj = new DivNumbers ();
         obj.Division(20, 0);
     }
 }

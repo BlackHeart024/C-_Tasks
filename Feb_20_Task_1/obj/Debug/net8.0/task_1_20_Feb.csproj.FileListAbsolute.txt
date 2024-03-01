@@ -26,3 +26,4 @@ C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_20_Task_1\bin\
 C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_20_Task_1\bin\Debug\net8.0\task_1_20_Feb.pdb
 C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_20_Task_1\obj\Debug\net8.0\task_1_20_Feb.genruntimeconfig.cache
 C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_20_Task_1\obj\Debug\net8.0\ref\task_1_20_Feb.dll
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Feb_20_Task_1\obj\Debug\net8.0\task_1_20_Feb.sourcelink.json
