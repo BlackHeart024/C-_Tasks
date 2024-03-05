@@ -1,5 +1,4 @@
 ﻿namespace Feb_29_Task;
-
 public delegate void WorkPerformedHandler(int hours, WorkType workType);
 class EventsAndDelegates
 {
@@ -11,7 +10,6 @@ class EventsAndDelegates
         del1(20,WorkType.GotoMeetings);
         del1(5, WorkType.GenericReports);
     }
-
     public static void Manager_WorkPerformed(int workHours, WorkType wType)
     {
         Console.WriteLine("Work Performed by Event Handler");
@@ -19,11 +17,9 @@ class EventsAndDelegates
     }
     public static void Manager_complete(int workHours, WorkType wType)
     {
-        Console.WriteLine("Work completd");
+        Console.WriteLine("Work completed");
     }
-
 }
-
 public enum WorkType
 {
     Golf,
