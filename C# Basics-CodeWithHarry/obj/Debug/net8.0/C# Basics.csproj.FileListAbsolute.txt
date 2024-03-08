@@ -26,3 +26,4 @@ C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\C# Basics-CodeWith
 C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\C# Basics-CodeWithHarry\bin\Debug\net8.0\C# Basics.pdb
 C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\C# Basics-CodeWithHarry\obj\Debug\net8.0\C# Basics.genruntimeconfig.cache
 C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\C# Basics-CodeWithHarry\obj\Debug\net8.0\ref\C# Basics.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\C# Basics-CodeWithHarry\obj\Debug\net8.0\C# Basics.sourcelink.json
