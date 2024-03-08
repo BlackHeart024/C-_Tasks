@@ -7,16 +7,51 @@ class ThreadingDemo
 {
     static void Main(string[] args)
     {
-        Thread t1 = new Thread(DisplayNumbers);
-        t1.Start();
-    }
-    static void DisplayNumbers()
-    {
-        for(int i=1; i<=5; i++)
+        int tasks = 0;
+        
+        while(tasks != 4)
         {
-            Console.WriteLine(i);
-            Thread.Sleep(5000);
+            Console.WriteLine("|------------------List of tasks------------------|");
+            Console.WriteLine("|1. Single Thread                                 |");
+            Console.WriteLine("|2. Multiple Thread                               |");
+            Console.WriteLine("|3. Join Method                                   |");
+            Console.WriteLine("|4. Overloading Join Method                       |");
+            Console.WriteLine("|4. IsAlive Method                                |");
+            Console.WriteLine("|5. Exit                                          |");
+            Console.WriteLine("|-------------------------------------------------|");
+            Console.Write("Enter task number: ");
+            tasks = Convert.ToInt32(Console.ReadLine());
+
+            switch(tasks)
+            {
+            case 1:
+                SingleThread.S_Thread();
+                break;
+
+            case 2:
+                MultiThread.M_Thread();
+                break;
+            
+            case 3:
+                JoinMethod.J_Method();
+                break;
+
+            case 4:
+                Overloaded_Join_Method.Over_Join_Method();
+                break;
+
+            case 5:
+                IsAlive.IsAlive_Method();
+                break;
+
+            case 6:
+                Console.WriteLine("|----------Thank you for your patronage-----------|");
+                break;
+
+            default:
+                Console.WriteLine("Enter a valid task number.");
+                break;
+            }
         }
-        Console.WriteLine("Thread Closed");
     }
 }
