@@ -18,6 +18,11 @@ namespace Mar_05_Task
             thread2.Start();
             thread3.Start();
 
+            //Only for program to run
+            thread1.Join();
+            // thread2.Join();
+            // thread3.Join();
+
             Console.WriteLine("Main Thread Ended");
         }
 

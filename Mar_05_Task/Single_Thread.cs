@@ -9,6 +9,7 @@ class SingleThread
     {
         Thread t1 = new Thread(DisplayNumbers);
         t1.Start();
+        t1.Join();
     }
     static void DisplayNumbers()
     {
