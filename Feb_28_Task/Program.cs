@@ -26,5 +26,6 @@ class DivNumbers
     {
         DivNumbers obj = new DivNumbers ();
         obj.Division(20, 0);
+        Console.WriteLine("Thank you");
     }
 }

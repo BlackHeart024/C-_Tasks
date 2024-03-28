@@ -1,0 +1,15 @@
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\bin\Debug\net8.0\Abstraction.exe
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\bin\Debug\net8.0\Abstraction.deps.json
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\bin\Debug\net8.0\Abstraction.dll
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\bin\Debug\net8.0\Abstraction.pdb
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\obj\Debug\net8.0\Abstraction.sourcelink.json
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\obj\Debug\net8.0\Abstraction.dll
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\obj\Debug\net8.0\Abstraction.pdb
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Mar_19_Task\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll
