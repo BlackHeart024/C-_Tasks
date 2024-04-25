@@ -1,0 +1,61 @@
+d:\Chintan\C#\Company_CMV\bin\Debug\net8.0\appsettings.Development.json
+d:\Chintan\C#\Company_CMV\bin\Debug\net8.0\appsettings.json
+d:\Chintan\C#\Company_CMV\bin\Debug\net8.0\Company_CMV.staticwebassets.runtime.json
+d:\Chintan\C#\Company_CMV\bin\Debug\net8.0\Company_CMV.exe
+d:\Chintan\C#\Company_CMV\bin\Debug\net8.0\Company_CMV.deps.json
+d:\Chintan\C#\Company_CMV\bin\Debug\net8.0\Company_CMV.runtimeconfig.json
+d:\Chintan\C#\Company_CMV\bin\Debug\net8.0\Company_CMV.dll
+d:\Chintan\C#\Company_CMV\bin\Debug\net8.0\Company_CMV.pdb
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\Company_CMV.GeneratedMSBuildEditorConfig.editorconfig
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\Company_CMV.AssemblyInfoInputs.cache
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\Company_CMV.AssemblyInfo.cs
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\Company_CMV.csproj.CoreCompileInputs.cache
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\Company_CMV.MvcApplicationPartsAssemblyInfo.cache
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\Company_CMV.RazorAssemblyInfo.cache
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\Company_CMV.RazorAssemblyInfo.cs
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\staticwebassets.build.json
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\staticwebassets.development.json
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\staticwebassets\msbuild.Company_CMV.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\staticwebassets\msbuild.build.Company_CMV.props
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Company_CMV.props
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Company_CMV.props
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\staticwebassets.pack.json
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\scopedcss\bundle\Company_CMV.styles.css
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\scopedcss\projectbundle\Company_CMV.bundle.scp.css
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\Company_CMV.dll
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\refint\Company_CMV.dll
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\Company_CMV.pdb
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\Company_CMV.genruntimeconfig.cache
+d:\Chintan\C#\Company_CMV\obj\Debug\net8.0\ref\Company_CMV.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\bin\Debug\net8.0\appsettings.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\bin\Debug\net8.0\Company_CMV.staticwebassets.runtime.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\bin\Debug\net8.0\Company_CMV.exe
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\bin\Debug\net8.0\Company_CMV.deps.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\bin\Debug\net8.0\Company_CMV.runtimeconfig.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\bin\Debug\net8.0\Company_CMV.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\bin\Debug\net8.0\Company_CMV.pdb
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\Company_CMV.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\Company_CMV.AssemblyInfoInputs.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\Company_CMV.AssemblyInfo.cs
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\Company_CMV.csproj.CoreCompileInputs.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\Company_CMV.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\Company_CMV.RazorAssemblyInfo.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\Company_CMV.RazorAssemblyInfo.cs
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\Company_CMV.sourcelink.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\staticwebassets\msbuild.Company_CMV.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\staticwebassets\msbuild.build.Company_CMV.props
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Company_CMV.props
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Company_CMV.props
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\scopedcss\bundle\Company_CMV.styles.css
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\scopedcss\projectbundle\Company_CMV.bundle.scp.css
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\Company_CMV.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\refint\Company_CMV.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\Company_CMV.pdb
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\Company_CMV.genruntimeconfig.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company_CMV\obj\Debug\net8.0\ref\Company_CMV.dll

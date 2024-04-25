@@ -1,0 +1,190 @@
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Company.exe
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Company.deps.json
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Company.runtimeconfig.json
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Company.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Company.pdb
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Azure.Core.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Azure.Identity.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\System.Memory.Data.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\EF_Practice\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\EF_Practice\Company 2\obj\Debug\net8.0\Company.csproj.AssemblyReference.cache
+C:\EF_Practice\Company 2\obj\Debug\net8.0\Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\EF_Practice\Company 2\obj\Debug\net8.0\Company.AssemblyInfoInputs.cache
+C:\EF_Practice\Company 2\obj\Debug\net8.0\Company.AssemblyInfo.cs
+C:\EF_Practice\Company 2\obj\Debug\net8.0\Company.csproj.CoreCompileInputs.cache
+C:\EF_Practice\Company 2\obj\Debug\net8.0\Company.csproj.Up2Date
+C:\EF_Practice\Company 2\obj\Debug\net8.0\Company.dll
+C:\EF_Practice\Company 2\obj\Debug\net8.0\refint\Company.dll
+C:\EF_Practice\Company 2\obj\Debug\net8.0\Company.pdb
+C:\EF_Practice\Company 2\obj\Debug\net8.0\Company.genruntimeconfig.cache
+C:\EF_Practice\Company 2\obj\Debug\net8.0\ref\Company.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Company.exe
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Company.deps.json
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Company.runtimeconfig.json
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Company.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Company.pdb
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Azure.Core.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Azure.Identity.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Chintan\C#\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Chintan\C#\Company 2\obj\Debug\net8.0\Company.csproj.AssemblyReference.cache
+D:\Chintan\C#\Company 2\obj\Debug\net8.0\Company.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chintan\C#\Company 2\obj\Debug\net8.0\Company.AssemblyInfoInputs.cache
+D:\Chintan\C#\Company 2\obj\Debug\net8.0\Company.AssemblyInfo.cs
+D:\Chintan\C#\Company 2\obj\Debug\net8.0\Company.csproj.CoreCompileInputs.cache
+D:\Chintan\C#\Company 2\obj\Debug\net8.0\Company.csproj.CopyComplete
+D:\Chintan\C#\Company 2\obj\Debug\net8.0\Company.dll
+D:\Chintan\C#\Company 2\obj\Debug\net8.0\refint\Company.dll
+D:\Chintan\C#\Company 2\obj\Debug\net8.0\Company.pdb
+D:\Chintan\C#\Company 2\obj\Debug\net8.0\Company.genruntimeconfig.cache
+D:\Chintan\C#\Company 2\obj\Debug\net8.0\ref\Company.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Company.exe
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Company.deps.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Company.runtimeconfig.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Company.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Company.pdb
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Azure.Core.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Azure.Identity.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\System.Memory.Data.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\System.Runtime.Caching.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\obj\Debug\net8.0\Company.csproj.AssemblyReference.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\obj\Debug\net8.0\Company.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\obj\Debug\net8.0\Company.AssemblyInfoInputs.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\obj\Debug\net8.0\Company.AssemblyInfo.cs
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\obj\Debug\net8.0\Company.csproj.CoreCompileInputs.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\obj\Debug\net8.0\Company.sourcelink.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\obj\Debug\net8.0\Company.csproj.CopyComplete
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\obj\Debug\net8.0\Company.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\obj\Debug\net8.0\refint\Company.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\obj\Debug\net8.0\Company.pdb
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\obj\Debug\net8.0\Company.genruntimeconfig.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Company 2\obj\Debug\net8.0\ref\Company.dll

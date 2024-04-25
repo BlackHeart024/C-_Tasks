@@ -1,0 +1,15 @@
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\bin\Debug\net8.0\Extension_Method.exe
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\bin\Debug\net8.0\Extension_Method.deps.json
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\bin\Debug\net8.0\Extension_Method.runtimeconfig.json
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\bin\Debug\net8.0\Extension_Method.dll
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\bin\Debug\net8.0\Extension_Method.pdb
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\obj\Debug\net8.0\Extension_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\obj\Debug\net8.0\Extension_Method.AssemblyInfoInputs.cache
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\obj\Debug\net8.0\Extension_Method.AssemblyInfo.cs
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\obj\Debug\net8.0\Extension_Method.csproj.CoreCompileInputs.cache
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\obj\Debug\net8.0\Extension_Method.sourcelink.json
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\obj\Debug\net8.0\Extension_Method.dll
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\obj\Debug\net8.0\refint\Extension_Method.dll
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\obj\Debug\net8.0\Extension_Method.pdb
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\obj\Debug\net8.0\Extension_Method.genruntimeconfig.cache
+C:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\Extension_Method\obj\Debug\net8.0\ref\Extension_Method.dll

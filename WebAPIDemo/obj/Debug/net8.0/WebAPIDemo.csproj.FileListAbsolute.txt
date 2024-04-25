@@ -1,0 +1,65 @@
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\bin\Debug\net8.0\appsettings.json
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.exe
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.deps.json
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.runtimeconfig.json
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.dll
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.pdb
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.csproj.AssemblyReference.cache
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.AssemblyInfoInputs.cache
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.AssemblyInfo.cs
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.csproj.CoreCompileInputs.cache
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.WebAPIDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPIDemo.props
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIDemo.props
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPIDemo.props
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\scopedcss\bundle\WebAPIDemo.styles.css
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.csproj.CopyComplete
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.dll
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\refint\WebAPIDemo.dll
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.pdb
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.genruntimeconfig.cache
+C:\Users\nivedita.tewani\Desktop\WebAPI\WebAPIDemo\obj\Debug\net8.0\ref\WebAPIDemo.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\bin\Debug\net8.0\appsettings.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.exe
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.deps.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.runtimeconfig.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.pdb
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.csproj.AssemblyReference.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.AssemblyInfoInputs.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.AssemblyInfo.cs
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.csproj.CoreCompileInputs.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.sourcelink.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.WebAPIDemo.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPIDemo.props
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIDemo.props
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPIDemo.props
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\scopedcss\bundle\WebAPIDemo.styles.css
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.csproj.CopyComplete
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\refint\WebAPIDemo.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.pdb
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.genruntimeconfig.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\WebAPIDemo\obj\Debug\net8.0\ref\WebAPIDemo.dll

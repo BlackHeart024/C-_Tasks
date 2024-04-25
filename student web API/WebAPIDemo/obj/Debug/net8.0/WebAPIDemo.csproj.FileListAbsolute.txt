@@ -1,0 +1,141 @@
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\appsettings.json
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.exe
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.deps.json
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.runtimeconfig.json
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.pdb
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Azure.Core.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Azure.Identity.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\System.Memory.Data.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\System.Runtime.Caching.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.csproj.AssemblyReference.cache
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.AssemblyInfoInputs.cache
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.AssemblyInfo.cs
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.csproj.CoreCompileInputs.cache
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.WebAPIDemo.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPIDemo.props
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIDemo.props
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPIDemo.props
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\scopedcss\bundle\WebAPIDemo.styles.css
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.csproj.CopyComplete
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\refint\WebAPIDemo.dll
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.pdb
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.genruntimeconfig.cache
+c:\Users\twinkle.rana\Desktop\Web API\WebAPIDemo\obj\Debug\net8.0\ref\WebAPIDemo.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\appsettings.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.exe
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.deps.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.runtimeconfig.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\WebAPIDemo.pdb
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Azure.Core.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Azure.Identity.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\System.Memory.Data.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\System.Runtime.Caching.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.csproj.AssemblyReference.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.AssemblyInfoInputs.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.AssemblyInfo.cs
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.csproj.CoreCompileInputs.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.sourcelink.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.WebAPIDemo.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPIDemo.props
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIDemo.props
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPIDemo.props
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\scopedcss\bundle\WebAPIDemo.styles.css
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.csproj.CopyComplete
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\refint\WebAPIDemo.dll
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.pdb
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\WebAPIDemo.genruntimeconfig.cache
+c:\Users\chintan.patel\Desktop\Chintan Patel\Internship\Tasks\student web API\WebAPIDemo\obj\Debug\net8.0\ref\WebAPIDemo.dll
